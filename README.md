@@ -10,6 +10,11 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
 Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
 
+Tabela 1 starost  
+Tabela 2 spol
+Tabela 3 izobrazba
+Tabela 4 regija
+
 ## Program
 
 Glavni program in poročilo se nahajata v datoteki `projekt.Rmd`.
