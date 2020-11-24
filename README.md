@@ -25,7 +25,7 @@ prebivalstvo sodijo tudi vse tiste zaposlene ali samozaposlene osebe, ki jih v
 zadnjem tednu pred izvajanjem raziskovanja ni bilo na delo. Kot delovno aktivne
 obravnavamo tudi zaposlene osebe, ki so začasni ali trajni presežki, in sicer do
 prenehanja delovnega razmerja, osebe na porodniškem dopustu ter pomagajoče
-družinske člane."* (Rutar in Tomažič, *AKTIVNO IN NEAKTIVNO PREBIVALSTVO*, 2020, str.4)
+družinske člane."* (Rutar in Tomažič, *AKTIVNO IN NEAKTIVNO PREBIVALSTVO*, https://www.stat.si/statweb/File/DocSysFile/7788, 2020, str.4)
 
 
 <p>&nbsp;</p>
