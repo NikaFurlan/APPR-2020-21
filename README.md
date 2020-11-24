@@ -21,11 +21,11 @@ Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
 1. tabela: **Delovno aktivni po stopnji dosežene izobrazbe** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/):
 
 
-    +  *brez izobrazbe oziroma nepopolna osnovnošolska*,
-    +  *osnovnošolska*,
-    +  *nižja ali srednja poklicna*,
-    +  *srednja strokovna, splošna*,
-    +  *višješolska, visokošolska*
+    +  brez izobrazbe oziroma nepopolna osnovnošolska
+    +  osnovnošolska
+    +  nižja ali srednja poklicna
+    +  srednja strokovna, splošna
+    +  višješolska, visokošolska
 
 <p>&nbsp;</p>
     
