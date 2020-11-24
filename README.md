@@ -37,7 +37,7 @@ Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
     +  *oskrba z električno energijo*
     +  *oskrba z vodo, ravnanje z odplakami in odpadki, saniranje okolja*
     +  *gradbeništvo*
-    +  *trgovina, vzdrževanje in popravila motornih vozil	*
+    +  *trgovina, vzdrževanje in popravila motornih vozil*
     +  *promet in skladiščenje*
     +  *gostinstvo*
     +  *informacijske in komunikacijske dejavnosti*
