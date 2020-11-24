@@ -7,12 +7,13 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/NikaFurlan/APPR-2020-21/master?urlpath=rstudio) RStudio
 
 
-### Tematika: *analiza delovno aktivnega prebivalstva Slovenije*
+### Tematika: **Analiza delovno aktivnega prebivalstva Slovenije**
 
 
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
 Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj. 
 
+<p>&nbsp;</p>
 
 1. tabela: **Delovno aktivni po stopnji dosežene izobrazbe** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/):
 
@@ -25,7 +26,7 @@ Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
 
 <p>&nbsp;</p>
     
-2. tabela: **Delovno aktivni po področjih dejavnosti** \n   (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762105S.px/table/tableViewLayout2/):
+2. tabela: **Delovno aktivni po področjih dejavnosti**  (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762105S.px/table/tableViewLayout2/):
 
     +  *kmetijstvo in lov, gozdarstvo, ribištvo*
     +  *rudarstvo*
