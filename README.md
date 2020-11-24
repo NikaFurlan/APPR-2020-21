@@ -1,70 +1,82 @@
 # Analiza podatkov s programom R, 2020/21
 
+<p>&nbsp;</p>
+
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/NikaFurlan/APPR-2020-21/master?urlpath=shiny/APPR-2020-21/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/NikaFurlan/APPR-2020-21/master?urlpath=rstudio) RStudio
 
-## Tematika
+<p>&nbsp;</p>
 
-% Definicja "Tidy data""
-* vsaka spremenljivka tvori stolpec, 
-* za vsako meritev imamo eno vrstico in 
-* vsak tip meritve je v ločeni tabeli
+### Tematika: **analiza delovno aktivnega prebivalstva Slovenije**
+
+<p>&nbsp;</p>
 
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj. 
 
-1. tabela: **Delovno aktivni po stopnji dosežene izobrazbe**
-  + *brez izobrazbe oziroma nepopolna osnovnošolska*
-Tabela 1 (delovna aktivnost GLEDE NA STOPNJO IZOBRAZBE):
-https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/
-STOLPCI: brez izobrazbe oziroma nepopolna osnovnošolske,
-osnovnošolska,
-nižja ali srednja poklicna
-srednja strokovna, splošna
-višješolska, visokošolska
-Tabela 2 glede na dejavnsot
-https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762105S.px/table/tableViewLayout2/
-stolpci:
-Kmetijstvo in lov, gozdarstvo, ribištvo	
-Rudarstvo	
-Predelovalne dejavnosti	
-Oskrba z električno energijo	
-Oskrba z vodo, ravnanje z odplakami in odpadki, saniranje okolja	
-Gradbeništvo	
-Trgovina, vzdrževanje in popravila motornih vozil	
-Promet in skladiščenje	
-Gostinstvo	
-Informacijske in komunikacijske dejavnosti	
-Finančne in zavarovalniške dejavnosti	
-Poslovanje z nepremičninami	
-Strokovne, znanstvene in tehnične dejavnosti	
-Druge raznovrstne poslovne dejavnosti	
-Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti	
-Izobraževanje	
-Zdravstvo in socialno varstvo	
-Kulturne, razvedrilne in rekreacijske dejavnosti	
-Druge dejavnosti	
-Dejavnost gospodinjstev z zaposlenim hišnim osebjem, proizvodnja za lastno rabo	
-Dejavnost eksteritorialnih organizacij in teles	
+<p>&nbsp;</p>
+
+1. tabela: **Delovno aktivni po stopnji dosežene izobrazbe** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/):
 
 
-Tabela 3 glede na starostne skupine
-https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762103S.px/table/tableViewLayout2/
-15-24
-tABELA 4 GLEDE NA STATISTIČNE REGIJE
-stolpci bojo statistične regije
-Pomurska	
-Podravska	
-Koroška	
-Savinjska	
-Zasavska	
-Posavska	
-Primorsko-notranjska	
-Osrednjeslovenska	
-Gorenjska	Goriška	
-Obalno-kraška
+    +  *brez izobrazbe oziroma nepopolna osnovnošolska*,
+    +  *osnovnošolska*,
+    +  *nižja ali srednja poklicna*,
+    +  *srednja strokovna, splošna*,
+    +  *višješolska, visokošolska*
+
+<p>&nbsp;</p>
+    
+2. tabela: **Delovno aktivni po področjih dejavnosti** \n   (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762105S.px/table/tableViewLayout2/):
+
+    +  *kmetijstvo in lov, gozdarstvo, ribištvo*
+    +  *rudarstvo*
+    +  *predelovalne dejavnosti	*
+    +  *oskrba z električno energijo*
+    +  *oskrba z vodo, ravnanje z odplakami in odpadki, saniranje okolja*
+    +  *gradbeništvo*
+    +  *trgovina, vzdrževanje in popravila motornih vozil	*
+    +  *promet in skladiščenje*
+    +  *gostinstvo*
+    +  *informacijske in komunikacijske dejavnosti*
+    +  *finančne in zavarovalniške dejavnosti*
+    +  *poslovanje z nepremičninami*
+    +  *strokovne, znanstvene in tehnične dejavnosti*
+    +  *druge raznovrstne poslovne dejavnosti*
+    +  *dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*
+    +  *izobraževanje*
+    +  *zdravstvo in socialno varstvo	*
+    +  *kulturne, razvedrilne in rekreacijske dejavnosti*
+    +  *druge dejavnosti*
+    +  *dejavnost gospodinjstev z zaposlenim hišnim osebjem, proizvodnja za lastno rabo*
+    +  *dejavnost eksteritorialnih organizacij in teles*
+<p>&nbsp;</p>
+
+3. tabela: **Delovno aktivni po starostnih skupinah** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762103S.px/table/tableViewLayout2/):
+
+    *brez izobrazbe oziroma nepopolna osnovnošolska*
+    *osnovnošolska*
+    *nižja ali srednja poklicna*
+    *srednja strokovna, splošna*
+    *višješolska, visokošolska*
+<p>&nbsp;</p>
+4. tabela: **Delovno aktivno prebivalstvo glede na statistične regije** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/):
+
+    +  *Pomurska*
+    +  *Podravska*
+    +  *Koroška*
+    +  *Savinjska*
+    +  *Zasavska*
+    +  *Posavska*
+    +  *Primorsko-notranjska*
+    +  *Osrednjeslovenska*
+    +  *Gorenjska*
+    +  *Goriška*
+    +  *Obalno-kraška*
+  
+
 
 ## Program
 
