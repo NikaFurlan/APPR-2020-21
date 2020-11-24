@@ -1,17 +1,15 @@
 # Analiza podatkov s programom R, 2020/21
 
-<p>&nbsp;</p>
 
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/NikaFurlan/APPR-2020-21/master?urlpath=shiny/APPR-2020-21/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/NikaFurlan/APPR-2020-21/master?urlpath=rstudio) RStudio
 
-<p>&nbsp;</p>
 
-### Tematika: **analiza delovno aktivnega prebivalstva Slovenije**
+#### Tematika: **analiza delovno aktivnega prebivalstva Slovenije**
 
-<p>&nbsp;</p>
+
 
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
 Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj. 
