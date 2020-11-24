@@ -16,6 +16,18 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
 Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj. 
 
+V projektni nalogi bom analizirala delovno aktivno prebivalstvo. Raziskovala bom, kakšna je povezava med delovno aktivnimi osebami glede na stopnjo izobrazbe, področje dejavnosti, starostno skupino in glede na statistično regijo. Poskušala bom ugotoviti, če obstaja korelacija med stopnjo izobrazbe in deležem delovno aktivnih oseb, in kakšna je. Zanimal me bo delež določenih dejavnosti v posameznih statističnih regijah. Ugotoviti bom poskušala tudi, če obstaja povezava med stopnjo izobrazbe in starostno strukturo, glede na posamezno dejavnost oziroma gospodarsko panogo. Poleg tega bom analizirala delež delovno aktivnega prebivalstva v posameznih regijah glede na gospodarske dejavnosti. 
+
+*"Delovno aktivno prebivalstvo so osebe, ki so v zadnjem tednu (od ponedeljka
+do nedelje) pred izvajanjem raziskovanja opravile kakršno koli delo za plačilo
+(denarno ali nedenarno), dobiček ali za družinsko blaginjo. Med delovno aktivno
+prebivalstvo sodijo tudi vse tiste zaposlene ali samozaposlene osebe, ki jih v
+zadnjem tednu pred izvajanjem raziskovanja ni bilo na delo. Kot delovno aktivne
+obravnavamo tudi zaposlene osebe, ki so začasni ali trajni presežki, in sicer do
+prenehanja delovnega razmerja, osebe na porodniškem dopustu ter pomagajoče
+družinske člane."* (Rutar in Tomažič, *AKTIVNO IN NEAKTIVNO PREBIVALSTVO*, 2020, str.4)
+
+
 <p>&nbsp;</p>
 
 1. tabela: **Delovno aktivni po stopnji dosežene izobrazbe** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/):
