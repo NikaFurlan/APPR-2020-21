@@ -10,11 +10,9 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 #### Tematika: **analiza delovno aktivnega prebivalstva Slovenije**
 
 
-
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
 Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj. 
 
-<p>&nbsp;</p>
 
 1. tabela: **Delovno aktivni po stopnji dosežene izobrazbe** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/):
 
