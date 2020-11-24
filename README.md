@@ -21,11 +21,11 @@ Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
 1. tabela: **Delovno aktivni po stopnji dosežene izobrazbe** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/):
 
 
-    +  brez izobrazbe oziroma nepopolna osnovnošolska
-    +  osnovnošolska
-    +  nižja ali srednja poklicna
-    +  srednja strokovna, splošna
-    +  višješolska, visokošolska
+    +  *brez izobrazbe oziroma nepopolna osnovnošolska*
+    +  *osnovnošolska*
+    +  *nižja ali srednja poklicna*
+    +  *srednja strokovna, splošna*
+    +  *višješolska, visokošolska*
 
 <p>&nbsp;</p>
     
@@ -33,7 +33,7 @@ Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
 
     +  *kmetijstvo in lov, gozdarstvo, ribištvo*
     +  *rudarstvo*
-    +  *predelovalne dejavnosti	*
+    +  *predelovalne dejavnosti*
     +  *oskrba z električno energijo*
     +  *oskrba z vodo, ravnanje z odplakami in odpadki, saniranje okolja*
     +  *gradbeništvo*
@@ -47,7 +47,7 @@ Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
     +  *druge raznovrstne poslovne dejavnosti*
     +  *dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*
     +  *izobraževanje*
-    +  *zdravstvo in socialno varstvo	*
+    +  *zdravstvo in socialno varstvo*
     +  *kulturne, razvedrilne in rekreacijske dejavnosti*
     +  *druge dejavnosti*
     +  *dejavnost gospodinjstev z zaposlenim hišnim osebjem, proizvodnja za lastno rabo*
@@ -62,6 +62,7 @@ Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
     *srednja strokovna, splošna*
     *višješolska, visokošolska*
 <p>&nbsp;</p>
+
 4. tabela: **Delovno aktivno prebivalstvo glede na statistične regije** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/):
 
     +  *Pomurska*
