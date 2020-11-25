@@ -1,6 +1,6 @@
 <p>&nbsp;</p>
 
-# Analiza podatkov s programom R, 2020/21
+# **Analiza podatkov s programom R, 2020/21**
 
 
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
@@ -18,6 +18,8 @@ Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
 
 V projektni nalogi bom analizirala delovno aktivno prebivalstvo. Raziskovala bom, kakšna je povezava med delovno aktivnimi osebami glede na stopnjo izobrazbe, področje dejavnosti, starostno skupino in glede na statistično regijo. Poskušala bom ugotoviti, če obstaja korelacija med stopnjo izobrazbe in deležem delovno aktivnih oseb, in kakšna je. Zanimal me bo delež določenih dejavnosti v posameznih statističnih regijah. Ugotoviti bom poskušala tudi, če obstaja povezava med stopnjo izobrazbe in starostno strukturo, glede na posamezno dejavnost oziroma gospodarsko panogo. Poleg tega bom analizirala delež delovno aktivnega prebivalstva v posameznih regijah glede na gospodarske dejavnosti. 
 
++ glede na dejavnosti pogledas katere regije imajo skupne dejavnosti in pole analiziras, ne vem npr. ce majo vec kmetijstva je to zato, ker je tam bolj rodovitno,...
+
 *"Delovno aktivno prebivalstvo so osebe, ki so v zadnjem tednu (od ponedeljka
 do nedelje) pred izvajanjem raziskovanja opravile kakršno koli delo za plačilo
 (denarno ali nedenarno), dobiček ali za družinsko blaginjo. Med delovno aktivno
@@ -30,7 +32,7 @@ družinske člane."* (Rutar in Tomažič, *AKTIVNO IN NEAKTIVNO PREBIVALSTVO*, h
 
 <p>&nbsp;</p>
 
-1. tabela: **Delovno aktivni po stopnji dosežene izobrazbe** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/):
+1. tabela: **Delovno aktivni po stopnji dosežene izobrazbe** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/ - oblika CSV):
 
 
     +  *brez izobrazbe oziroma nepopolna osnovnošolska*
@@ -41,7 +43,7 @@ družinske člane."* (Rutar in Tomažič, *AKTIVNO IN NEAKTIVNO PREBIVALSTVO*, h
 
 <p>&nbsp;</p>
     
-2. tabela: **Delovno aktivni po področjih dejavnosti**  (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762105S.px/table/tableViewLayout2/):
+2. tabela: **Delovno aktivni po področjih dejavnosti**  (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762105S.px/table/tableViewLayout2/ - oblika CSV):
 
     +  *kmetijstvo in lov, gozdarstvo, ribištvo*
     +  *rudarstvo*
@@ -66,16 +68,17 @@ družinske člane."* (Rutar in Tomažič, *AKTIVNO IN NEAKTIVNO PREBIVALSTVO*, h
     +  *dejavnost eksteritorialnih organizacij in teles*
 <p>&nbsp;</p>
 
-3. tabela: **Delovno aktivni po starostnih skupinah** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762103S.px/table/tableViewLayout2/):
+3. tabela: **Delovno aktivni po starostnih skupinah** (oblika: HTML):
 
     *brez izobrazbe oziroma nepopolna osnovnošolska*
     *osnovnošolska*
     *nižja ali srednja poklicna*
     *srednja strokovna, splošna*
     *višješolska, visokošolska*
+    
 <p>&nbsp;</p>
 
-4. tabela: **Delovno aktivno prebivalstvo glede na statistične regije** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/):
+4. tabela: **Delovno aktivno prebivalstvo glede na statistične regije** (file:///C:/Users/Uporabnik/Downloads/0772820S.html - oblika CSV):
 
     +  *Pomurska*
     +  *Podravska*
