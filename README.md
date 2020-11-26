@@ -10,15 +10,22 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 
 <p>&nbsp;</p>
 
-### Tematika: **Analiza delovno aktivnega prebivalstva Slovenije**
+### Tematika: **Analiza delovno aktivnega prebivalstva**
 
 
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
 Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj. 
 
-V projektni nalogi bom analizirala delovno aktivno prebivalstvo. Raziskovala bom, kakšna je povezava med delovno aktivnimi osebami glede na stopnjo izobrazbe, področje dejavnosti, starostno skupino in glede na statistično regijo. Poskušala bom ugotoviti, če obstaja korelacija med stopnjo izobrazbe in deležem delovno aktivnih oseb, in kakšna je. Zanimal me bo delež določenih dejavnosti v posameznih statističnih regijah. Ugotoviti bom poskušala tudi, če obstaja povezava med stopnjo izobrazbe in starostno strukturo, glede na posamezno dejavnost oziroma gospodarsko panogo. Poleg tega bom analizirala delež delovno aktivnega prebivalstva v posameznih regijah glede na gospodarske dejavnosti. 
+V projektni nalogi bom analizirala delovno aktivno prebivalstvo na ravni statističnih regij z vidika starostne strukture delavcev, njihove izobrazbe, vrste dejavnosti v kateri so zaposleni, sektorja (javni, zasebni) in vrsto pogodbe o zaposlitvi. Raziskovala bom povezave med:
 
-+ glede na dejavnosti pogledas katere regije imajo skupne dejavnosti in pole analiziras, ne vem npr. ce majo vec kmetijstva je to zato, ker je tam bolj rodovitno,...
+* stopnjo izobrazbe in sektorjem zaposlitve, med 
+* stopnjo izobrazbe in vrsto dejavnosti, 
+* vrsto pogodbe in starostno strukturo zaposlenih,
+* vrsto pogodbe in sektorjem,
+* vrsto pogodbe in stopnjo izobrazbe.
+ 
+Raziskovala bom, kakšna je povezava med vrsto delovnega razmerja v posameznih panogah glede na doseženo stopnjo izobrazbe in glede na starostno strukturo delovno aktivnega prebivalstva (npr. zanimalo me bo, kdaj, če, v posameznih panogah zaposleni dobijo pogodbo o delovnem razmerju za nedoločen čas - ali je mogoče odvisno od nivoja izobrazbe in starosti). Zanimalo me bo, v katerih dejavnosti je pogodba za nedoločen čas najlažje dosegljiva in v katerih dejavnostih je morda večji delež pogodb za določen čas. Glede na posamezne gospodarske dejavnosti bom analizirala razmerje med pogodbami za nedoločen in določen čas glede na starost zaposlenih. Poleg tega bom razmerja med izobrazbo, starostjo in dejavnostjo raziskala tudi na ravni statističnih regij in vrsto pogodbe primerjala tudi na ravni javnega in zasebnega sektorja.
+
 
 *"Delovno aktivno prebivalstvo so osebe, ki so v zadnjem tednu (od ponedeljka
 do nedelje) pred izvajanjem raziskovanja opravile kakršno koli delo za plačilo
@@ -32,43 +39,20 @@ družinske člane."* (Rutar in Tomažič, *AKTIVNO IN NEAKTIVNO PREBIVALSTVO*, h
 
 <p>&nbsp;</p>
 
-1. tabela: **Delovno aktivni po stopnji dosežene izobrazbe** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/ - oblika CSV):
+1. tabela: **Zaposleni glede na vrsto delovnega razmerja, po starostnih razredih in spolu med letoma 2008 in 2019** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/ - oblika CSV):
 
-
-    +  *brez izobrazbe oziroma nepopolna osnovnošolska*
-    +  *osnovnošolska*
-    +  *nižja ali srednja poklicna*
-    +  *srednja strokovna, splošna*
-    +  *višješolska, visokošolska*
+    +  *starostni razredi*
+    +  *vrsta delovnega razmerja*
 
 <p>&nbsp;</p>
     
-2. tabela: **Delovno aktivni po področjih dejavnosti**  (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762105S.px/table/tableViewLayout2/ - oblika CSV):
+2. tabela: **Delovno aktivno prebivalstvo v javnem in zasebnem sektorju po doseženi izobrazbi in spolu med letoma 2008 in 2019**  (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762105S.px/table/tableViewLayout2/ - oblika CSV):
 
-    +  *kmetijstvo in lov, gozdarstvo, ribištvo*
-    +  *rudarstvo*
-    +  *predelovalne dejavnosti*
-    +  *oskrba z električno energijo*
-    +  *oskrba z vodo, ravnanje z odplakami in odpadki, saniranje okolja*
-    +  *gradbeništvo*
-    +  *trgovina, vzdrževanje in popravila motornih vozil*
-    +  *promet in skladiščenje*
-    +  *gostinstvo*
-    +  *informacijske in komunikacijske dejavnosti*
-    +  *finančne in zavarovalniške dejavnosti*
-    +  *poslovanje z nepremičninami*
-    +  *strokovne, znanstvene in tehnične dejavnosti*
-    +  *druge raznovrstne poslovne dejavnosti*
-    +  *dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*
-    +  *izobraževanje*
-    +  *zdravstvo in socialno varstvo*
-    +  *kulturne, razvedrilne in rekreacijske dejavnosti*
-    +  *druge dejavnosti*
-    +  *dejavnost gospodinjstev z zaposlenim hišnim osebjem, proizvodnja za lastno rabo*
-    +  *dejavnost eksteritorialnih organizacij in teles*
+    +  *dejavnosti*
+    +  *stopnja delovne aktivnosti*
 <p>&nbsp;</p>
 
-3. tabela: **Delovno aktivni po starostnih skupinah** (oblika: HTML):
+3. tabela: **Delovno aktivno prebivalstvo po dejavnosti (SKD 2008), doseženi izobrazbi in spolu med letoma 2008 in 2019** (oblika: HTML):
 
     *brez izobrazbe oziroma nepopolna osnovnošolska*
     *osnovnošolska*
@@ -78,19 +62,12 @@ družinske člane."* (Rutar in Tomažič, *AKTIVNO IN NEAKTIVNO PREBIVALSTVO*, h
     
 <p>&nbsp;</p>
 
-4. tabela: **Delovno aktivno prebivalstvo glede na statistične regije** (file:///C:/Users/Uporabnik/Downloads/0772820S.html - oblika CSV):
+4. tabela: **Delovno aktivno prebivalstvo glede na statistične regije med letoma 2008 in 2019** (oblika CSV):
 
-    +  *Pomurska*
-    +  *Podravska*
-    +  *Koroška*
-    +  *Savinjska*
-    +  *Zasavska*
-    +  *Posavska*
-    +  *Primorsko-notranjska*
-    +  *Osrednjeslovenska*
-    +  *Gorenjska*
-    +  *Goriška*
-    +  *Obalno-kraška*
+    +  *statistične regije*
+    +  *delež delovno aktivnega prebivalstva*
+   
+    
   
 
 
