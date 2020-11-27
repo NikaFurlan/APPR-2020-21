@@ -16,7 +16,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
 Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj. 
 
-V projektni nalogi bom analizirala delovno aktivno prebivalstvo na ravni statističnih regij z vidika starostne strukture delavcev, njihove izobrazbe, vrste dejavnosti v kateri so zaposleni, sektorja (javni, zasebni) in vrsto pogodbe o zaposlitvi. Raziskovala bom povezave med:
+V projektni nalogi bom analizirala delovno aktivno prebivalstvo na ravni statističnih regij z vidika starostne strukture delavcev, njihove izobrazbe, vrste dejavnosti v kateri so zaposleni, sektorja (javni, zasebni) in vrste pogodbe o zaposlitvi. Raziskovala bom povezave med:
 
 * vrsto pogodbe in starostno strukturo zaposlenih,
 * vrsto pogodbe in stopnjo izobrazbe,
