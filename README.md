@@ -39,33 +39,21 @@ družinske člane."* (Rutar in Tomažič, *AKTIVNO IN NEAKTIVNO PREBIVALSTVO*, h
 
 <p>&nbsp;</p>
 
-1. tabela: **Zaposleni glede na vrsto delovnega razmerja, po starostnih razredih in spolu med letoma 2008 in 2019** (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762104S.px/table/tableViewLayout2/ - oblika CSV):
+1. tabela: **Zaposleni glede na vrsto delovnega razmerja, po starostnih razredih in spolu med letoma 2008 in 2019** (oblika CSV):
 
-    +  *starostni razredi*
-    +  *vrsta delovnega razmerja*
 
-<p>&nbsp;</p>
     
-2. tabela: **Delovno aktivno prebivalstvo v javnem in zasebnem sektorju po doseženi izobrazbi in spolu med letoma 2008 in 2019**  (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0762105S.px/table/tableViewLayout2/ - oblika CSV):
+2. tabela: **Delovno aktivno prebivalstvo v javnem in zasebnem sektorju po doseženi izobrazbi in spolu med letoma 2008 in 2019**  (oblika CSV):
 
-    +  *dejavnosti*
-    +  *stopnja delovne aktivnosti*
-<p>&nbsp;</p>
+
 
 3. tabela: **Delovno aktivno prebivalstvo po dejavnosti (SKD 2008), doseženi izobrazbi in spolu med letoma 2008 in 2019** (oblika: HTML):
 
-    *brez izobrazbe oziroma nepopolna osnovnošolska*
-    *osnovnošolska*
-    *nižja ali srednja poklicna*
-    *srednja strokovna, splošna*
-    *višješolska, visokošolska*
-    
-<p>&nbsp;</p>
+  
+
 
 4. tabela: **Delovno aktivno prebivalstvo glede na statistične regije med letoma 2008 in 2019** (oblika CSV):
 
-    +  *statistične regije*
-    +  *delež delovno aktivnega prebivalstva*
    
     
   
