@@ -18,11 +18,12 @@ Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
 
 V projektni nalogi bom analizirala delovno aktivno prebivalstvo na ravni statističnih regij z vidika starostne strukture delavcev, njihove izobrazbe, vrste dejavnosti v kateri so zaposleni, sektorja (javni, zasebni) in vrsto pogodbe o zaposlitvi. Raziskovala bom povezave med:
 
+* vrsto pogodbe in starostno strukturo zaposlenih,
+* vrsto pogodbe in stopnjo izobrazbe,
 * stopnjo izobrazbe in sektorjem zaposlitve, med 
 * stopnjo izobrazbe in vrsto dejavnosti, 
-* vrsto pogodbe in starostno strukturo zaposlenih,
 * vrsto pogodbe in sektorjem,
-* vrsto pogodbe in stopnjo izobrazbe.
+
  
 Raziskovala bom, kakšna je povezava med vrsto delovnega razmerja v posameznih panogah glede na doseženo stopnjo izobrazbe in glede na starostno strukturo delovno aktivnega prebivalstva (npr. zanimalo me bo, kdaj, če, v posameznih panogah zaposleni dobijo pogodbo o delovnem razmerju za nedoločen čas - ali je mogoče odvisno od nivoja izobrazbe in starosti). Zanimalo me bo, v katerih dejavnosti je pogodba za nedoločen čas najlažje dosegljiva in v katerih dejavnostih je morda večji delež pogodb za določen čas. Glede na posamezne gospodarske dejavnosti bom analizirala razmerje med pogodbami za nedoločen in določen čas glede na starost zaposlenih. Poleg tega bom razmerja med izobrazbo, starostjo in dejavnostjo raziskala tudi na ravni statističnih regij in vrsto pogodbe primerjala tudi na ravni javnega in zasebnega sektorja.
 
